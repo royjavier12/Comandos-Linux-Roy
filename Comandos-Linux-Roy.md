@@ -76,5 +76,5 @@
 
 Link del repositorio en GitHub
 
-    [https://github.com/royjavier12/Comandos-Linux/blob/16c837bff910f9655bb8bc8206de9416496fadd2/ListaComandosLinux](https://github.com/royjavier12/Comandos-Linux/blob/16c837bff910f9655bb8bc8206de9416496fadd2/ListaComandosLinux)
+    [https://github.com/royjavier12/Comandos-Linux-Roy/blob/08683b7a764aac91051b251721507d76f2b799d3/Comandos-Linux-Roy.md](https://github.com/royjavier12/Comandos-Linux-Roy/blob/08683b7a764aac91051b251721507d76f2b799d3/Comandos-Linux-Roy.md)
 
